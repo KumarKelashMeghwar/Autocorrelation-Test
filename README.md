@@ -1,4 +1,3 @@
-Certainly! Here’s a concise overview for the `README.md` file:
 
 ---
 
